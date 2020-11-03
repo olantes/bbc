@@ -1,0 +1,38 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+.nav-bar{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    width: 1000px;
+    height: 40px;
+    margin: 0 auto;
+    display: block;   
+}
+
+
+.menu{
+    list-style-type: none;
+    overflow: hidden;
+    margin: 0px;
+}
+
+ul li{
+    float: left;
+    border-left: 1px #666666 solid;
+    align-items: center;
+}
+.logo{
+    border: none;
+}
+.menu-item{
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    padding-left: 40px;
+}
+
