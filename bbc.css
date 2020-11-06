@@ -71,3 +71,17 @@ ul li a{
 
 }
 
+.first-row{
+    width: 1500px;
+    margin: 0 auto;
+}
+.first-row-h{
+    width: 50%;
+    float: left;
+}
+
+.first-row-p{
+    width: 50%;
+    float: right;
+    color: #666666;
+}
